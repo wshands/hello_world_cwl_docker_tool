@@ -1,0 +1,3 @@
+src:
+  class: File
+  path: hello_world_cwl_docker_tool.js
